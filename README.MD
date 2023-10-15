@@ -7,7 +7,7 @@
     </tr>
     <tr>
         <td>1. </td>
-        <td>Create a project with vite: <code>npm create vite@latest</code> (if it is desired to initiate the installation in the same working folder then this follow the command <code>npm create vite@lates .</code>)</td>
+        <td>Create a project with vite: <code>npm create vite@latest</code> (if it is desired to initiate the installation in the same working folder then this follow the command <code>npm create vite@latest .</code>)</td>
     </tr>
     <tr>
     <td>2.</td>
